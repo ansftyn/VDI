@@ -41,7 +41,7 @@ Berdasarkan 4 prinsip pengembangan visualisasi, visualisasi diatas termasuk dala
 ### **1. Top 50 Websites in The World’s** 
 Link :[ https://ninjatables.com/bad-data-visualization-examples/ ]
 
-![alt text](https://ninjatables.com/bad-data-visualization-examples/?raw=true)
+![alt text](https://ninjatables.com/wp-content/uploads/2022/12/Website-data-visualization-for-traffic-analysis-768x768.png?raw=true)
 
 Berdasarkan 4 prinsip pengembangan visualisasi, maka infografis diatas termasuk dalam kategori good visualization karena : 
 1) Kejelasan (Clarity) : Infografis sudah memiliki bentuk visual yang menarik, dengan gelembung ukuran berbeda berdasarkan jumlah pengunjung bulanan tiap situs. Bentuk ini berfungsi untuk memudahkan perbandingan ukuran situs. 
