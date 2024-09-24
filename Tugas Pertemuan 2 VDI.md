@@ -10,7 +10,7 @@ Mata Kuliah : Visualisasi Data & Informasi
 
    Link :[ https://ninjatables.com/bad-data-visualization-examples/ ](https://ninjatables.com/bad-data-visualization-examples/)
 
-   ![](Aspose.Words.a117d8fa-fba7-4e6b-94b5-92f6bf469853.001.jpeg)
+   ![alt text](Aspose.Words.a117d8fa-fba7-4e6b-94b5-92f6bf469853.001.jpeg?raw=true)
 
 Berdasarkan  4  (empat)  prinsip  pengembangan  visualisasi,  grafik  diatas  menunjukkan kategori bad visualization  karena : 
 1) Kejelasan (Clarity) :
