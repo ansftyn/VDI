@@ -29,7 +29,7 @@ Berdasarkan  4  (empat)  prinsip  pengembangan  visualisasi,  grafik  diatas  me
 ### **2. Visualisasi TOP 10 Aplikasi di Playstore**
 Link :[ https://ninjatables.com/bad-data-visualization-examples/ ](https://ninjatables.com/bad-data-visualization-examples/)
 
-![](Aspose.Words.a117d8fa-fba7-4e6b-94b5-92f6bf469853.002.jpeg)
+![alt text](https://ninjatables.com/wp-content/uploads/2022/12/3-1-1-512x1024.png?raw=true)
 
 Berdasarkan 4 prinsip pengembangan visualisasi, visualisasi diatas termasuk dalam kategori bad visualization karena : 
 1) Kejelasan (Clarity) : Infografis sudah memiliki bentuk yang sederhana, namun belum cukup informatif dalam menyajikan perubahan signifikan antara 2017 dan 2018. Daftar aplikasi disusun dengan baik, namun tidak ada penekanan pada informasi penting seperti pergerakan peringkat, aplikasi baru yang masuk, atau tren pengguna. 
@@ -40,7 +40,7 @@ Berdasarkan 4 prinsip pengembangan visualisasi, visualisasi diatas termasuk dala
 ## **- Good Visualization** 
 ### **1. Top 50 Websites in The World’s** 
 Link :[ https://ninjatables.com/bad-data-visualization-examples/ ](https://ninjatables.com/bad-data-visualization-examples/)
-![](Aspose.Words.a117d8fa-fba7-4e6b-94b5-92f6bf469853.003.jpeg)
+![alt text](https://ninjatables.com/bad-data-visualization-examples/?raw=true)
 
 Berdasarkan 4 prinsip pengembangan visualisasi, maka infografis diatas termasuk dalam kategori good visualization karena : 
 1) Kejelasan (Clarity) : Infografis sudah memiliki bentuk visual yang menarik, dengan gelembung ukuran berbeda berdasarkan jumlah pengunjung bulanan tiap situs. Bentuk ini berfungsi untuk memudahkan perbandingan ukuran situs. 
@@ -49,9 +49,9 @@ Berdasarkan 4 prinsip pengembangan visualisasi, maka infografis diatas termasuk 
 1) Konsistensi (Consistency) : Data pengunjung sudah akurat, tetapi kurang ada perincian tentang bagaimana situs-situs ini berhubungan satu sama lain di dalam kategori atau wilayah.
    
 ### **2. Grafik Riwayat Pengiriman Kendaraan Tesla**
-[(https://revopsteam.com/revenue-intelligence/data-visualization-real-lif-examples/)](https://revopsteam.com/revenue-intelligence/data-visualization-real-lif-examples/) 
+[(https://revopsteam.com/revenue-intelligence/data-visualization-real-lif-examples/)] 
 
- ![](Aspose.Words.a117d8fa-fba7-4e6b-94b5-92f6bf469853.004.jpeg)
+ ![alt text](https://revopsteam.com/wp-content/uploads/sites/7/2023/09/line-graph-1024x623.pngraw=true)
 Berdasarkan 4 prinsip pengembangan visualisasi, maka grafik diatas termasuk dalam kategori good visualization karena :
 1) Kejelasan (Clarity) : Grafik sederhana ini efektif dalam menunjukkan perbedaan antara Model 3 & Y dan Model S & X dalam hal jumlah pengiriman. Namun, tidak ada penekanan visual pada titik perubahan signifikan. 
 2) Kesederhanaan (Simplicity) : Keputusan untuk memisahkan Model S & X dengan Model 3 & Y adalah tepat karena keduanya memiliki performa pengiriman yang berbeda secara drastis. 
