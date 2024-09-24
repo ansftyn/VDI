@@ -3,10 +3,10 @@ NIM : 122450019
 Kelas : RA 
 Mata Kuliah : Visualisasi Data & Informasi 
 
-**Tugas Pertemuan 2** 
+##**Tugas Pertemuan 2** 
 
-**- Bad Visualization** 
-**1. Visualisasi Rata-rata Ketinggian Wanita** 
+##**- Bad Visualization** 
+###**1. Visualisasi Rata-rata Ketinggian Wanita** 
 
    Link :[ https://ninjatables.com/bad-data-visualization-examples/ ](https://ninjatables.com/bad-data-visualization-examples/)
 
@@ -26,7 +26,7 @@ Berdasarkan  4  (empat)  prinsip  pengembangan  visualisasi,  grafik  diatas  me
    - Warna-warna yang digunakan pada grafik tidak memiliki arti yang jelas dan tidak konsisten dalam memberikan pesan. Nuansa pink yang berbeda tidak memberikan informasi tambahan atau kode warna yang bermakna.
    - Tidak ada konsistensi dalam bentuk visualisasi, misalnya semua negara menggunakan ikon manusia tetapi ukuran dan proporsi mereka tidak konsisten dengan skala yang jelas.
 
-**2. Visualisasi TOP 10 Aplikasi di Playstore**
+###**2. Visualisasi TOP 10 Aplikasi di Playstore**
 Link :[ https://ninjatables.com/bad-data-visualization-examples/ ](https://ninjatables.com/bad-data-visualization-examples/)
 
 ![](Aspose.Words.a117d8fa-fba7-4e6b-94b5-92f6bf469853.002.jpeg)
@@ -37,8 +37,8 @@ Berdasarkan 4 prinsip pengembangan visualisasi, visualisasi diatas termasuk dala
 3) Konteks  (Context)  :  informasi  hanya  tersaji  dalam  bentuk  daftar  teks,  yang mungkin  mudah  dipahami  bagi  pengguna  yang  akrab  dengan  aplikasi-aplikasi tersebut, namun tidak memberikan akses mudah bagi pengguna baru atau awam. 
 4) Konsistensi (Consistency) : Daftar aplikasi dan peringkat yang disajikan sudah benar, namun kurang menyertakan detail lebih lanjut seperti jumlah unduhan atau pendapatan aktual dari aplikasi top-grossing.
    
-**- Good Visualization** 
-**1. Top 50 Websites in The World’s** 
+##**- Good Visualization** 
+###**1. Top 50 Websites in The World’s** 
 Link :[ https://ninjatables.com/bad-data-visualization-examples/ ](https://ninjatables.com/bad-data-visualization-examples/)
 ![](Aspose.Words.a117d8fa-fba7-4e6b-94b5-92f6bf469853.003.jpeg)
 
@@ -48,11 +48,11 @@ Berdasarkan 4 prinsip pengembangan visualisasi, maka infografis diatas termasuk 
 1) Konteks (Context) : Infografis saat ini sudah mudah diakses secara visual dengan penggunaan warna-warna berbeda. Namun, teks kecil di beberapa bagian mungkin sulit dibaca. 
 1) Konsistensi (Consistency) : Data pengunjung sudah akurat, tetapi kurang ada perincian tentang bagaimana situs-situs ini berhubungan satu sama lain di dalam kategori atau wilayah.
    
-**2. Grafik Riwayat Pengiriman Kendaraan Tesla**
+###**2. Grafik Riwayat Pengiriman Kendaraan Tesla**
 [(https://revopsteam.com/revenue-intelligence/data-visualization-real-lif-examples/)](https://revopsteam.com/revenue-intelligence/data-visualization-real-lif-examples/) 
 
  ![](Aspose.Words.a117d8fa-fba7-4e6b-94b5-92f6bf469853.004.jpeg)
-
+Berdasarkan 4 prinsip pengembangan visualisasi, maka grafik diatas termasuk dalam kategori good visualization karena :
 1) Kejelasan (Clarity) : Grafik sederhana ini efektif dalam menunjukkan perbedaan antara Model 3 & Y dan Model S & X dalam hal jumlah pengiriman. Namun, tidak ada penekanan visual pada titik perubahan signifikan. 
 2) Kesederhanaan (Simplicity) : Keputusan untuk memisahkan Model S & X dengan Model 3 & Y adalah tepat karena keduanya memiliki performa pengiriman yang berbeda secara drastis. 
 3) Konteks (Context) : Grafik menggunakan garis sederhana dengan perbedaan warna membuat pembaca lebih mudah untuk memahaminya. 
