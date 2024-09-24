@@ -39,7 +39,8 @@ Berdasarkan 4 prinsip pengembangan visualisasi, visualisasi diatas termasuk dala
    
 ## **- Good Visualization** 
 ### **1. Top 50 Websites in The World’s** 
-Link :[ https://ninjatables.com/bad-data-visualization-examples/ ](https://ninjatables.com/bad-data-visualization-examples/)
+Link :[ https://ninjatables.com/bad-data-visualization-examples/ ]
+
 ![alt text](https://ninjatables.com/bad-data-visualization-examples/?raw=true)
 
 Berdasarkan 4 prinsip pengembangan visualisasi, maka infografis diatas termasuk dalam kategori good visualization karena : 
@@ -51,7 +52,7 @@ Berdasarkan 4 prinsip pengembangan visualisasi, maka infografis diatas termasuk 
 ### **2. Grafik Riwayat Pengiriman Kendaraan Tesla**
 [(https://revopsteam.com/revenue-intelligence/data-visualization-real-lif-examples/)] 
 
- ![alt text](https://revopsteam.com/wp-content/uploads/sites/7/2023/09/line-graph-1024x623.pngraw=true)
+ ![alt text](https://revopsteam.com/wp-content/uploads/sites/7/2023/09/line-graph-1024x623.png?raw=true)
 Berdasarkan 4 prinsip pengembangan visualisasi, maka grafik diatas termasuk dalam kategori good visualization karena :
 1) Kejelasan (Clarity) : Grafik sederhana ini efektif dalam menunjukkan perbedaan antara Model 3 & Y dan Model S & X dalam hal jumlah pengiriman. Namun, tidak ada penekanan visual pada titik perubahan signifikan. 
 2) Kesederhanaan (Simplicity) : Keputusan untuk memisahkan Model S & X dengan Model 3 & Y adalah tepat karena keduanya memiliki performa pengiriman yang berbeda secara drastis. 
